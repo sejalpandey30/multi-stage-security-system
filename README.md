@@ -6,6 +6,7 @@ What is a Multi-Stage Security System?
 An IoT-based smart security system designed using Arduino UNO and NodeMCU to provide real-time intrusion and fire detection with local display and mobile alerts.
 
 ---
+<img width="3060" height="4080" alt="20260405_233612" src="https://github.com/user-attachments/assets/e2af4551-ead7-4f51-961b-5a351e64f0a9" />
 
 ## 🚀 Features
 
@@ -73,6 +74,10 @@ The system works in multiple stages:
 
 The fire module independently monitors flame detection and sends emergency alerts.
 
+<img width="4080" height="3060" alt="20260414_150314" src="https://github.com/user-attachments/assets/9e0b8c62-0115-4927-bf9d-025d48f75080" />
+
+
+
 ---
 
 ## 📷 Future Improvements
@@ -96,6 +101,6 @@ The fire module independently monitors flame detection and sends emergency alert
 
 ---
 
-## 👨‍💻 Author
+Author
 
 Sejal Pandey
